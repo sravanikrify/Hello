@@ -12,7 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    NSLog(@"sdfasdasd");
+    NSLog(@"sdfasadfadasd");
     return YES;
 }
 							
